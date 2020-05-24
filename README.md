@@ -34,7 +34,7 @@ python test_cityscape.py
 ## Citing this repository
 If you find this code useful in your research, please consider citing us:
 ```
-@article{zhou2020BBN,
+@article{CR-DA-DET,
 	title={Exploring Categorical Regularization for Domain Adaptive Object Detection},
 	author={Chang-Dong Xu and Xing-Ran Zhao and Xin Jin and Xiu-Shen Wei},
 	booktitle={CVPR},
