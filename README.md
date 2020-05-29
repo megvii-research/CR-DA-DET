@@ -20,7 +20,7 @@ This repository is developed using python **3.6.7** on Ubuntu **16.04.5 LTS**. T
 The usage of SW-ICR-CCR is same to DA-ICR-CCR. Take DA-ICR-CCR as an example:
 ```bash
 # install
-cd DA_Faster_ICR_CCR
+cd DA_Faster_ICR_CCR/lib
 python setup.py build develop
 # to train DA-Faster-ICR-CCR on cityscape:
 sh train_cityscape.sh
